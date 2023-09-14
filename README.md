@@ -7,9 +7,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_sameer.patel_/)
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sameer-patel-dev.sameer-patel-dev&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp;
 
-I have completed my Bachelors's in Information Technology 🎓 from KJ Somaiya College of Engineering 🏛. Right after my undergrad, I started working as a Data Scientist at RBL Bank for 2 years💡. So I have got around 2 years of experience working on Full Stack Applications and Data Science Projects.💻
+I have completed my Bachelors's in Information Technology 🎓 from KJ Somaiya College of Engineering 🏛. Right after my undergrad, I started working as a Data Scientist at RBL Bank for 2 years💡. So I have got around 2 years of experience working on Full Stack Applications and Data Science Projects. I have also added my Resume/CV in the same repository for your reference. 💻
 
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/sameer-patel-dev/sameer-patel-dev/main/code.gif" />
